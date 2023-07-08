@@ -4,5 +4,5 @@ Ten skrypt PHP ma na celu wyświetlenie listy 10 najczęściej występujących i
 Wyniki zostaną posortowane malejąco według liczby wystąpień. 
 W przypadku wielu nazw lub dat o tej samej liczbie wystąpień, pierwsza napotkana zachowa swoją pozycję na liście.
 # Input ------------------- Output
-![Alt Text](input.png) 
-![Alt Text](output.png)
+![Alt Text](img/input.png) 
+![Alt Text](img/output.png)
